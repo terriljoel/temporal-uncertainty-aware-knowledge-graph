@@ -1,0 +1,377 @@
+[
+  {
+    "pmid": "37900422",
+    "title": "The Effectiveness of Metformin in Diabetes Prevention: A Systematic Review and Meta-Analysis.",
+    "abstract": "Diabetes mellitus is a growing global health concern, and prevention strategies play a crucial role in reducing its burden. Metformin has been widely studied as a potential intervention for diabetes prevention, but its overall effectiveness and impact on various populations remain unclear. This study aims to provide a comprehensive synthesis of the available evidence on the effectiveness of metformin in diabetes prevention. A systematic search was conducted in PubMed, Scopus, ScienceDirect, and Google Scholar for articles published from inception to June 2023. The reference lists of the included studies were also searched to retrieve possible additional studies. Any quantitative data were analyzed using Review Manager 5.4. A <i>P</i>-value of 0.05 was adopted as the significance threshold. Our analysis included 17 studies with a total sample size of 30,474. Our meta-analysis included two key analyses. First, the meta-analysis evaluating the effects of metformin on prediabetes demonstrated a significant reduction in the risk of progressing to type 2 diabetes mellitus (T2DM). The pooled odds ratio (OR) was 0.65 (95% confidence interval [CI] 0.53-0.80), indicating a 35% lower odds of developing T2DM among individuals with prediabetes who received metformin interventions compared to control groups. Secondly, the meta-analysis assessing the efficacy of metformin interventions in preventing T2DM yielded a significant reduction in the risk of developing the disease. The pooled risk ratio was 0.58 (95% CI 0.44-0.77), indicating a 42% lower risk of developing T2DM in individuals receiving metformin interventions compared to those in non-metformin intervention groups. These findings provide strong evidence for the effectiveness of metformin in preventing the progression of prediabetes to T2DM and reducing the overall incidence of the disease. The review demonstrated that metformin is effective in reducing the risk of developing diabetes mellitus among individuals at risk for the disease. The findings highlight the potential of metformin as a valuable intervention for diabetes prevention, particularly in high-risk populations.",
+    "authors": "Patel Dhara, Ayesha Ismat E, Monson Neetha R, Klair Nimra, Patel Utkarsh, Saxena Ayushi, Hamid Pousette",
+    "publication_date": "2023",
+    "similarity_score": 0.9515911340713501,
+    "passages": [
+      {
+        "context": ".53-0.80), indicating a 35% lower odds of developing t2dm among individuals with prediabetes who received metformin interventions compared to control groups. secondly, the meta-analysis assessing the efficacy of metformin interventions in preventing t2dm yielded a significant reduction in the risk of developing the disease. the pooled risk ratio was 0.58 (95% ci 0.44-0.77), indicating a 42% lower risk of",
+        "keyword": "efficacy",
+        "position": 1453
+      },
+      {
+        "context": "evidence on the effectiveness of metformin in diabetes prevention. a systematic search was conducted in pubmed, scopus, sciencedirect, and google scholar for articles published from inception to june 2023. the reference lists of the included studies were also searched to retrieve possible additional studies. any quantitative data were analyzed using review manager 5.4. a <i>p</i>-value of 0.05 was ado",
+        "keyword": "2023",
+        "position": 656
+      },
+      {
+        "context": "of 30,474. our meta-analysis included two key analyses. first, the meta-analysis evaluating the effects of metformin on prediabetes demonstrated a significant reduction in the risk of progressing to type 2 diabetes mellitus (t2dm). the pooled odds ratio (or) was 0.65 (95% confidence interval [ci] 0.53-0.80), indicating a 35% lower odds of developing t2dm among individuals with prediabetes who receive",
+        "keyword": "type",
+        "position": 1153
+      }
+    ]
+  },
+  {
+    "pmid": "38021728",
+    "title": "Comparison of the Efficacy of Metformin and Lifestyle Modification for the Primary Prevention of Type 2 Diabetes: A Meta-Analysis of Randomized Controlled Trials.",
+    "abstract": "This meta-analysis aimed to compare the effectiveness of metformin versus lifestyle interventions in preventing diabetes in individuals with prediabetes. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and conducted a comprehensive search of databases (PubMed, Cochrane Library, EMBASE) up to September 1, 2023. Five eligible studies were included. The results showed that there was no significant difference in the risk of developing diabetes between the metformin and lifestyle intervention groups (RR: 1.14, 95% CI: 0.77-1.68). Similarly, when comparing metformin with lifestyle intervention, the risk of diabetes was slightly higher in the metformin group, but this difference was not statistically significant (RR: 1.31, 95% CI: 0.93-1.86). When comparing metformin with lifestyle intervention to lifestyle intervention alone, no significant difference was observed in the incidence of diabetes (RR: 0.88, 95% CI: 0.74-1.04). In conclusion, our analysis found that the incidence of type 2 diabetes was slightly higher in patients receiving metformin alone compared to lifestyle intervention, but this difference did not reach statistical significance. Further trials are necessary to better evaluate these interventions for preventing type 2 diabetes in high-risk individuals.",
+    "authors": "Vajje Jaahnavi, Khan Saima, Kaur Avneet, Kataria Heemali, Sarpoolaki Sahar, Goudel Aastha, Bhatti Ali Hanif, Allahwala Danish",
+    "publication_date": "2023",
+    "similarity_score": 0.9488307237625122,
+    "passages": [
+      {
+        "context": "comparison of the efficacy of metformin and lifestyle modification for the primary prevention of type 2 diabetes: a meta-analysis of randomized controlled trials.. this meta-analysis aimed to compare the effectiveness of metfo",
+        "keyword": "efficacy",
+        "position": 18
+      },
+      {
+        "context": "owed the preferred reporting items for systematic reviews and meta-analyses (prisma) guidelines and conducted a comprehensive search of databases (pubmed, cochrane library, embase) up to september 1, 2023. five eligible studies were included. the results showed that there was no significant difference in the risk of developing diabetes between the metformin and lifestyle intervention groups (rr: 1.14,",
+        "keyword": "2023",
+        "position": 525
+      },
+      {
+        "context": "comparison of the efficacy of metformin and lifestyle modification for the primary prevention of type 2 diabetes: a meta-analysis of randomized controlled trials.. this meta-analysis aimed to compare the effectiveness of metformin versus lifestyle interventions in preventing diabetes in individuals w",
+        "keyword": "type",
+        "position": 97
+      },
+      {
+        "context": "ntervention to lifestyle intervention alone, no significant difference was observed in the incidence of diabetes (rr: 0.88, 95% ci: 0.74-1.04). in conclusion, our analysis found that the incidence of type 2 diabetes was slightly higher in patients receiving metformin alone compared to lifestyle intervention, but this difference did not reach statistical significance. further trials are necessary to be",
+        "keyword": "type",
+        "position": 1206
+      },
+      {
+        "context": "ving metformin alone compared to lifestyle intervention, but this difference did not reach statistical significance. further trials are necessary to better evaluate these interventions for preventing type 2 diabetes in high-risk individuals.",
+        "keyword": "type",
+        "position": 1459
+      }
+    ]
+  },
+  {
+    "pmid": "37723440",
+    "title": "Comparing the effectiveness of metformin with lifestyle modification for the primary prevention of type II diabetes: a systematic review and meta-analysis.",
+    "abstract": "Concerning ascending trend in the prevalence of chronic type II diabetes, prevention and the development of an effective approach after the recognition of at-risk individuals is crucial. This study aims to investigate comparing the influence of lifestyle modification and metformin interventions in the prevention of type II diabetes developments. The search was conducted using PubMed, Google Scholar, Scopus and Web of Science databases. The inclusion criteria include randomized controlled trials (RCT) which studied both lifestyle modification and metformin interventions in the population above 18\u00a0years old without a history of any type of diabetes. After excluding studies with intervention time of fewer than 6\u00a0months, a systematic review and meta-analysis were performed to evaluate relative risk (RR) with a confidence interval (CI) of 95% of type II diabetes development. Data from 5 studies were included in the meta-analysis. The population also consists of individuals with a mean age of 50\u00a0years old with BMI and FBS of 35.5 and 104.7\u00a0mg/dl respectively. Participants range of prevention years was between 2-3\u00a0years with a mean of 2.8\u00a0years. Lifestyle modification decreases the probability of the incidence of type II diabetes by 25.3% (RR: 0.747, 95% CI, 0.6-0.92) compared to the metformin intervention (p-value\u2009=\u20090.007). Our results indicate that long-term lifestyle modifications can prevent diabetes type II and decrease diabetes mellitus incidence down to one-quarter in comparison to metformin. Lifestyle modification can be more efficacious than metformin in diminishing the incidence of type II diabetes. Therefore, lifestyle modification can be a therapeutic strategy for controlling type II diabetes incidence, especially in high-risk individuals.",
+    "authors": "Mousavi Sayedah Sarah, Namayandeh Seyedeh Mahdieh, Fallahzadeh Hossein, Rahmanian Masoud, Mollahosseini Mehdi",
+    "publication_date": "2023",
+    "similarity_score": 0.9437536001205444,
+    "passages": [
+      {
+        "context": "comparing the effectiveness of metformin with lifestyle modification for the primary prevention of type ii diabetes: a systematic review and meta-analysis.. concerning ascending trend in the prevalence of chronic type ii diabetes, prevention and the development of an effective approach after the recogn",
+        "keyword": "type",
+        "position": 99
+      },
+      {
+        "context": "effectiveness of metformin with lifestyle modification for the primary prevention of type ii diabetes: a systematic review and meta-analysis.. concerning ascending trend in the prevalence of chronic type ii diabetes, prevention and the development of an effective approach after the recognition of at-risk individuals is crucial. this study aims to investigate comparing the influence of lifestyle modif",
+        "keyword": "type",
+        "position": 213
+      },
+      {
+        "context": "ive approach after the recognition of at-risk individuals is crucial. this study aims to investigate comparing the influence of lifestyle modification and metformin interventions in the prevention of type ii diabetes developments. the search was conducted using pubmed, google scholar, scopus and web of science databases. the inclusion criteria include randomized controlled trials (rct) which studied b",
+        "keyword": "type",
+        "position": 474
+      },
+      {
+        "context": ". the inclusion criteria include randomized controlled trials (rct) which studied both lifestyle modification and metformin interventions in the population above 18\u00a0years old without a history of any type of diabetes. after excluding studies with intervention time of fewer than 6\u00a0months, a systematic review and meta-analysis were performed to evaluate relative risk (rr) with a confidence interval (ci)",
+        "keyword": "type",
+        "position": 795
+      },
+      {
+        "context": "s. after excluding studies with intervention time of fewer than 6\u00a0months, a systematic review and meta-analysis were performed to evaluate relative risk (rr) with a confidence interval (ci) of 95% of type ii diabetes development. data from 5 studies were included in the meta-analysis. the population also consists of individuals with a mean age of 50\u00a0years old with bmi and fbs of 35.5 and 104.7\u00a0mg/dl r",
+        "keyword": "type",
+        "position": 1010
+      },
+      {
+        "context": "d fbs of 35.5 and 104.7\u00a0mg/dl respectively. participants range of prevention years was between 2-3\u00a0years with a mean of 2.8\u00a0years. lifestyle modification decreases the probability of the incidence of type ii diabetes by 25.3% (rr: 0.747, 95% ci, 0.6-0.92) compared to the metformin intervention (p-value\u2009=\u20090.007). our results indicate that long-term lifestyle modifications can prevent diabetes type ii a",
+        "keyword": "type",
+        "position": 1383
+      },
+      {
+        "context": "e of type ii diabetes by 25.3% (rr: 0.747, 95% ci, 0.6-0.92) compared to the metformin intervention (p-value\u2009=\u20090.007). our results indicate that long-term lifestyle modifications can prevent diabetes type ii and decrease diabetes mellitus incidence down to one-quarter in comparison to metformin. lifestyle modification can be more efficacious than metformin in diminishing the incidence of type ii diabe",
+        "keyword": "type",
+        "position": 1578
+      },
+      {
+        "context": "diabetes type ii and decrease diabetes mellitus incidence down to one-quarter in comparison to metformin. lifestyle modification can be more efficacious than metformin in diminishing the incidence of type ii diabetes. therefore, lifestyle modification can be a therapeutic strategy for controlling type ii diabetes incidence, especially in high-risk individuals.",
+        "keyword": "type",
+        "position": 1769
+      },
+      {
+        "context": "formin. lifestyle modification can be more efficacious than metformin in diminishing the incidence of type ii diabetes. therefore, lifestyle modification can be a therapeutic strategy for controlling type ii diabetes incidence, especially in high-risk individuals.",
+        "keyword": "type",
+        "position": 1867
+      }
+    ]
+  },
+  {
+    "pmid": "38066653",
+    "title": "Comparison of the efficacy of anti-diabetic medications as add-on to metformin in type 2 diabetes mellitus from a real-world database.",
+    "abstract": "Metformin is recommended as a first-line drug in the guidelines of the treatment for type 2 diabetes mellitus. However, high-quality evidence from clinical trials directly comparing the degree of hypoglycemic effect of combination therapy of metformin and a hypoglycemic agent with a different mechanism of action with that of monotherapy of a hypoglycemic drug is lacking. We aimed to examine whether combination therapy of hypoglycemic agents with metformin showed antagonism, addition, or synergism compared to monotherapy with hypoglycemic agents other than metformin regarding hemoglobin A<sub>1c</sub> levels. This retrospective cohort study used a medical information database in Japan. Non-insulin anti-hyperglycemic agents with different mechanisms of action were classified into eight drug classes. A monotherapy cohort and a combination therapy added to the metformin cohort were defined. The change in hemoglobin A<sub>1c</sub> levels was evaluated to compare the treatment effect between the cohorts. A total of 13,359 patients with type 2 diabetes mellitus in the monotherapy cohort and 1,064 in the metformin combination therapy cohort were identified. A comparison of the change from baseline HbA1c level by drug class between the two cohorts showed a similar trend. Among those treated with dipeptidyl peptidase-4 inhibitor and sodium-glucose co-transporter-2 inhibitor, no clinically significant difference was observed between the two cohorts (0.00% and -0.07% for unadjusted, 0.15% and -0.03% for propensity score matching-adjusted, and 0.09% and -0.01% for inverse probability treatment weighting-adjusted analysis). According to the results of this study, the effect of dipeptidyl peptidase-4 inhibitor or sodium-glucose co-transporter-2 inhibitor added to metformin seems to be additive with respect to the reduction in hemoglobin A<sub>1c</sub>.",
+    "authors": "Ono Ryosuke, Ogami Chika, Hasegawa Chihiro, To Hideto, Matsumoto Yoshiaki, Tsuji Yasuhiro",
+    "publication_date": "2023",
+    "similarity_score": 0.9403190016746521,
+    "passages": [
+      {
+        "context": "comparison of the efficacy of anti-diabetic medications as add-on to metformin in type 2 diabetes mellitus from a real-world database.. metformin is recommended as a first-line drug in the guidelines of the treatment for type",
+        "keyword": "efficacy",
+        "position": 18
+      },
+      {
+        "context": "n anti-hyperglycemic agents with different mechanisms of action were classified into eight drug classes. a monotherapy cohort and a combination therapy added to the metformin cohort were defined. the change in hemoglobin a<sub>1c</sub> levels was evaluated to compare the treatment effect between the cohorts. a total of 13,359 patients with type 2 diabetes mellitus in the monotherapy cohort and 1,064 in",
+        "keyword": "change",
+        "position": 1040
+      },
+      {
+        "context": "fect between the cohorts. a total of 13,359 patients with type 2 diabetes mellitus in the monotherapy cohort and 1,064 in the metformin combination therapy cohort were identified. a comparison of the change from baseline hba1c level by drug class between the two cohorts showed a similar trend. among those treated with dipeptidyl peptidase-4 inhibitor and sodium-glucose co-transporter-2 inhibitor, no cli",
+        "keyword": "change",
+        "position": 1324
+      },
+      {
+        "context": "comparison of the efficacy of anti-diabetic medications as add-on to metformin in type 2 diabetes mellitus from a real-world database.. metformin is recommended as a first-line drug in the guidelines of the treatment for type 2 diabetes mellitus. however, high-quality evidence from cli",
+        "keyword": "type",
+        "position": 82
+      },
+      {
+        "context": "icacy of anti-diabetic medications as add-on to metformin in type 2 diabetes mellitus from a real-world database.. metformin is recommended as a first-line drug in the guidelines of the treatment for type 2 diabetes mellitus. however, high-quality evidence from clinical trials directly comparing the degree of hypoglycemic effect of combination therapy of metformin and a hypoglycemic agent with a diffe",
+        "keyword": "type",
+        "position": 221
+      },
+      {
+        "context": "n therapy added to the metformin cohort were defined. the change in hemoglobin a<sub>1c</sub> levels was evaluated to compare the treatment effect between the cohorts. a total of 13,359 patients with type 2 diabetes mellitus in the monotherapy cohort and 1,064 in the metformin combination therapy cohort were identified. a comparison of the change from baseline hba1c level by drug class between the two",
+        "keyword": "type",
+        "position": 1182
+      }
+    ]
+  },
+  {
+    "pmid": "37724698",
+    "title": "A randomized, double-blind, placebo controlled, phase 3 trial to evaluate the efficacy and safety of cetagliptin added to ongoing metformin therapy in patients with uncontrolled type 2 diabetes with metformin monotherapy.",
+    "abstract": "This trial was designed to assess the efficacy and safety of cetagliptin added to metformin in Chinese patients with type 2 diabetes who had inadequate glycaemic control with metformin monotherapy. In total, 446 patients with type 2 diabetes on metformin monotherapy were randomized to receive the addition of once-daily cetagliptin 100\u2009mg, cetagliptin 50\u2009mg and placebo in a 2:2:1 ratio for 24-week double-blind treatment. At week 24, patients initially randomized to cetagliptin 50\u2009mg and placebo were switched to cetagliptin 100\u2009mg for 28\u2009weeks open-label treatment. The primary endpoint was the change in haemoglobin A1c (HbA1c) from baseline, and the efficacy analyses were based on an all-patients-treated population using an analysis of co-variance. After 24\u2009weeks, both add-on therapies led to greater glycaemic control. Reductions in HbA1c from baseline were -1.17\u2009\u00b1\u20090.794%, -1.23\u2009\u00b1\u20090.896% in cetagliptin 100\u2009mg and 50\u2009mg plus metformin group, respectively. No difference was observed between the cetagliptin 100\u2009mg and 50\u2009mg plus metformin group. Patients with higher baseline HbA1c levels (\u22658.5%) experienced greater reductions in HbA1c. A significantly greater proportion of patients achieved an HbA1c <7.0% with cetagliptin 100\u2009mg (49.4%) and cetagliptin 50\u2009mg (51.1%) plus metformin than metformin monotherapy (14.4%). Both combination therapies also improved the homeostasis model assessment \u03b2-function index and decreased systolic blood pressure. There was no increased risk of adverse effects with combination therapy, and both combination therapies were generally well tolerated. The addition of cetagliptin once daily to metformin was more efficacious and well tolerated than metformin monotherapy in Chinese patients with type 2 diabetes who had inadequate glycaemic control with metformin monotherapy.",
+    "authors": "Ji Linong, Lu Jinmiao, Gao Leili, Yan Xiaoguang, Li Jifang, Cheng Zhifeng, Zhang Lili, Tian Junhang, Li Ping, Bai Jie, Xie Daosheng, Zhao Jiahong, Ding Juping, Yu Qiang, Wang Tong",
+    "publication_date": "2023",
+    "similarity_score": 0.9337531328201294,
+    "passages": [
+      {
+        "context": "a randomized, double-blind, placebo controlled, phase 3 trial to evaluate the efficacy and safety of cetagliptin added to ongoing metformin therapy in patients with uncontrolled type 2 diabetes with metformin monotherapy.. this trial was designed to assess the efficacy and safety of ce",
+        "keyword": "efficacy",
+        "position": 78
+      },
+      {
+        "context": "to evaluate the efficacy and safety of cetagliptin added to ongoing metformin therapy in patients with uncontrolled type 2 diabetes with metformin monotherapy.. this trial was designed to assess the efficacy and safety of cetagliptin added to metformin in chinese patients with type 2 diabetes who had inadequate glycaemic control with metformin monotherapy. in total, 446 patients with type 2 diabetes on m",
+        "keyword": "efficacy",
+        "position": 261
+      },
+      {
+        "context": "andomized to cetagliptin 50\u2009mg and placebo were switched to cetagliptin 100\u2009mg for 28\u2009weeks open-label treatment. the primary endpoint was the change in haemoglobin a1c (hba1c) from baseline, and the efficacy analyses were based on an all-patients-treated population using an analysis of co-variance. after 24\u2009weeks, both add-on therapies led to greater glycaemic control. reductions in hba1c from baseline w",
+        "keyword": "efficacy",
+        "position": 879
+      },
+      {
+        "context": "double-blind treatment. at week 24, patients initially randomized to cetagliptin 50\u2009mg and placebo were switched to cetagliptin 100\u2009mg for 28\u2009weeks open-label treatment. the primary endpoint was the change in haemoglobin a1c (hba1c) from baseline, and the efficacy analyses were based on an all-patients-treated population using an analysis of co-variance. after 24\u2009weeks, both add-on therapies led to gre",
+        "keyword": "change",
+        "position": 822
+      },
+      {
+        "context": "a randomized, double-blind, placebo controlled, phase 3 trial to evaluate the efficacy and safety of cetagliptin added to ongoing metformin therapy in patients with uncontrolled type 2 diabetes with metformin monotherapy.. this trial was designed to assess the efficacy and safety of cetagliptin added to metformin in chinese patients with type 2 diabetes who had inadequate glycaem",
+        "keyword": "type",
+        "position": 178
+      },
+      {
+        "context": "therapy in patients with uncontrolled type 2 diabetes with metformin monotherapy.. this trial was designed to assess the efficacy and safety of cetagliptin added to metformin in chinese patients with type 2 diabetes who had inadequate glycaemic control with metformin monotherapy. in total, 446 patients with type 2 diabetes on metformin monotherapy were randomized to receive the addition of once-daily",
+        "keyword": "type",
+        "position": 340
+      },
+      {
+        "context": "assess the efficacy and safety of cetagliptin added to metformin in chinese patients with type 2 diabetes who had inadequate glycaemic control with metformin monotherapy. in total, 446 patients with type 2 diabetes on metformin monotherapy were randomized to receive the addition of once-daily cetagliptin 100\u2009mg, cetagliptin 50\u2009mg and placebo in a 2:2:1 ratio for 24-week double-blind treatment. at wee",
+        "keyword": "type",
+        "position": 449
+      },
+      {
+        "context": "th combination therapies were generally well tolerated. the addition of cetagliptin once daily to metformin was more efficacious and well tolerated than metformin monotherapy in chinese patients with type 2 diabetes who had inadequate glycaemic control with metformin monotherapy.",
+        "keyword": "type",
+        "position": 1965
+      }
+    ]
+  },
+  {
+    "pmid": "38138975",
+    "title": "Drug Therapies for Diabetes.",
+    "abstract": "The treatment of type 2 diabetes (T2D) necessitates a multifaceted approach that combines behavioral and pharmacological interventions to mitigate complications and sustain a high quality of life. Treatment encompasses the management of glucose levels, weight, cardiovascular risk factors, comorbidities, and associated complications through medication and lifestyle adjustments. Metformin, a standard in diabetes management, continues to serve as the primary, first-line oral treatment across all age groups due to its efficacy, versatility in combination therapy, and cost-effectiveness. Glucagon-like peptide-1 receptor agonists (GLP-1 RA) offer notable benefits for HbA1c and weight reduction, with significant cardiovascular benefits. Sodium-glucose cotransporter inhibitors (SGLT-2i) lower glucose levels independently of insulin while conferring notable benefits for cardiovascular, renal, and heart-failure outcomes. Combined therapies emphasizing early and sustained glycemic control are promising options for diabetes management. As insulin therapy remains pivotal, metformin and non-insulin agents such as GLP-1 RA and SGLT-2i offer compelling options. Notably, exciting novel treatments like the dual GLP-1/ glucose-dependent insulinotropic polypeptide (GIP) agonist show promise for substantially reducing glycated hemoglobin and body weight. This comprehensive review highlights the evolving landscape of pharmacotherapy in diabetes, the drugs currently available for treating diabetes, their effectiveness and efficacy, the impact on target organs, and side effects. This work also provides insights that can support the customization of treatment strategies.",
+    "authors": "Weinberg Sibony Roni, Segev Omri, Dor Saar, Raz Itamar",
+    "publication_date": "2023",
+    "similarity_score": 0.9335750341415405,
+    "passages": [
+      {
+        "context": "complications through medication and lifestyle adjustments. metformin, a standard in diabetes management, continues to serve as the primary, first-line oral treatment across all age groups due to its efficacy, versatility in combination therapy, and cost-effectiveness. glucagon-like peptide-1 receptor agonists (glp-1 ra) offer notable benefits for hba1c and weight reduction, with significant cardiovascula",
+        "keyword": "efficacy",
+        "position": 550
+      },
+      {
+        "context": "ed hemoglobin and body weight. this comprehensive review highlights the evolving landscape of pharmacotherapy in diabetes, the drugs currently available for treating diabetes, their effectiveness and efficacy, the impact on target organs, and side effects. this work also provides insights that can support the customization of treatment strategies.",
+        "keyword": "efficacy",
+        "position": 1555
+      },
+      {
+        "context": "w promise for substantially reducing glycated hemoglobin and body weight. this comprehensive review highlights the evolving landscape of pharmacotherapy in diabetes, the drugs currently available for treating diabetes, their effectiveness and efficacy, the impact on target organs, and side effects. this work also provides insights that can support the customization of treatment strategies.",
+        "keyword": "treating",
+        "position": 1512
+      },
+      {
+        "context": "drug therapies for diabetes.. the treatment of type 2 diabetes (t2d) necessitates a multifaceted approach that combines behavioral and pharmacological interventions to mitigate complications and sustain a high quality of life. treatment encompasses th",
+        "keyword": "type",
+        "position": 47
+      }
+    ]
+  },
+  {
+    "pmid": "37750183",
+    "title": "Efficacy and Safety of Evogliptin Add-on Therapy to Dapagliflozin/Metformin Combinations in Patients with Poorly Controlled Type 2 Diabetes Mellitus: A 24-Week Multicenter Randomized Placebo-Controlled Parallel-Design Phase-3 Trial with a 28-Week Extension.",
+    "abstract": "This study investigates the long-term efficacy and safety of evogliptin add-on therapy in patients with inadequately controlled type 2 diabetes mellitus (T2DM) previously received dapagliflozin and metformin (DAPA/MET) combination. In this multicenter randomized placebo-controlled phase 3 trial, patients with glycosylated hemoglobin (HbA1c) levels 7.0% to 10.5% (n=283) previously used DAPA 10 mg plus MET (\u22651,000 mg) were randomly assigned to the evogliptin 5 mg once daily or placebo group (1:1). The primary endpoint was the difference in the HbA1c level from baseline at week 24, and exploratory endpoints included the efficacy and safety of evogliptin over 52 weeks (trial registration: ClinicalTrials.gov NCT04170998). Evogliptin add-on to DAPA/MET therapy was superior in HbA1c reduction compared to placebo at weeks 24 and 52 (least square [LS] mean difference, -0.65% and -0.55%; 95% confidence interval [CI], -0.79 to -0.51 and -0.71 to -0.39; P<0.0001). The proportion of patients achieving HbA1c <7% was higher in the triple combination group at week 52 (32.14% vs. 8.51% in placebo; odds ratio, 5.62; P<0.0001). Evogliptin significantly reduced the fasting glucose levels and mean daily glucose levels with improvement in homeostatic model assessment of \u03b2-cell function (LS mean difference, 9.04; 95% CI, 1.86 to 16.21; P=0.0138). Adverse events were similar between the groups, and no serious adverse drug reactions were reported in the evogliptin group. Long-term triple combination with evogliptin added to DAPA/MET showed superior HbA1c reduction and glycemic control compared to placebo at 52 weeks and was well tolerated.",
+    "authors": "Moon Jun Sung, Park Il Rae, Kim Hae Jin, Chung Choon Hee, Won Kyu Chang, Han Kyung Ah, Park Cheol-Young, Won Jong Chul, Kim Dong Jun, Koh Gwan Pyo, Kim Eun Sook, Yu Jae Myung, Hong Eun-Gyoung, Lee Chang Beom, Yoon Kun-Ho",
+    "publication_date": "2023",
+    "similarity_score": 0.9330905675888062,
+    "passages": [
+      {
+        "context": "efficacy and safety of evogliptin add-on therapy to dapagliflozin/metformin combinations in patients with poorly controlled type 2 diabetes mellitus: a 24-week multicenter randomized placebo-controlled parall",
+        "keyword": "efficacy",
+        "position": 0
+      },
+      {
+        "context": "nts with poorly controlled type 2 diabetes mellitus: a 24-week multicenter randomized placebo-controlled parallel-design phase-3 trial with a 28-week extension.. this study investigates the long-term efficacy and safety of evogliptin add-on therapy in patients with inadequately controlled type 2 diabetes mellitus (t2dm) previously received dapagliflozin and metformin (dapa/met) combination. in this multic",
+        "keyword": "efficacy",
+        "position": 297
+      },
+      {
+        "context": "randomly assigned to the evogliptin 5 mg once daily or placebo group (1:1). the primary endpoint was the difference in the hba1c level from baseline at week 24, and exploratory endpoints included the efficacy and safety of evogliptin over 52 weeks (trial registration: clinicaltrials.gov nct04170998). evogliptin add-on to dapa/met therapy was superior in hba1c reduction compared to placebo at weeks 24 and",
+        "keyword": "efficacy",
+        "position": 884
+      },
+      {
+        "context": "efficacy and safety of evogliptin add-on therapy to dapagliflozin/metformin combinations in patients with poorly controlled type 2 diabetes mellitus: a 24-week multicenter randomized placebo-controlled parallel-design phase-3 trial with a 28-week extension.. this study investigates the long-term efficacy and safety of evoglipt",
+        "keyword": "type",
+        "position": 124
+      },
+      {
+        "context": "ebo-controlled parallel-design phase-3 trial with a 28-week extension.. this study investigates the long-term efficacy and safety of evogliptin add-on therapy in patients with inadequately controlled type 2 diabetes mellitus (t2dm) previously received dapagliflozin and metformin (dapa/met) combination. in this multicenter randomized placebo-controlled phase 3 trial, patients with glycosylated hemoglob",
+        "keyword": "type",
+        "position": 387
+      }
+    ]
+  },
+  {
+    "pmid": "37701904",
+    "title": "Comparison of the efficacy and safety of 10 glucagon-like peptide-1 receptor agonists as add-on to metformin in patients with type 2 diabetes: a systematic review.",
+    "abstract": "This study aimed to perform a network meta-analysis to objectively evaluate the efficacy and safety of 10 Glucagon-like peptide-1 receptor agonists (GLP-1RAs) in combination with metformin that is approved for use worldwide in patients with type 2 diabetes and to provide evidence-based support and reference for the selection of clinical treatment. Three databases (PubMed, Embase, and Cochrane Library) were searched from their respective inception until September 30, 2022. Only randomized controlled trials comparing the efficacy and safety of GLP-1RAs for treating type 2 diabetes (T2D) were included. The 10 GLP-1RAs are exenatide (including exenatide twice daily and once weekly), liraglutide, lixisenatide, dulaglutide, PEX168, semaglutide (subcutaneous and oral semaglutide), tirzepatide and albiglutide. 34 RCTs with 10 GLP-1RAs and 12993 patients were included in the Network Meta-Analysis (NMA). According to the NMA, tirzepatide 15 mg, semaglutide 1.0 mg, PEX168-200\u03bcg, oral semaglutide 14 and dulaglutide 1.5 mg reduced HbA1c by -2.23%, -1.57%, -1.12%, -1.10%, -1.09% and body weight by -11.33\u00a0kg, -5.99\u00a0kg, +0.40 kg, -3.95\u00a0kg, -1.87\u00a0kg, respectively. There was no significant difference in the rate of adverse events for tirzepatide 15 mg, oral-semaglutide 14 mg, and semaglutide 1.0 mg. PEX168-200\u03bcg, tirzepatide 15mg, and oral semaglutide 14mg had Surface Under the Cumulative Ranking (SUCRA) values greater than placebo, and only tirzepatide 15mg and oral semaglutide 14mg were significantly different from placebo in the rate of serious adverse events. All GLP-1RA did not lead to increased incidence of hypoglycemia. Albiglutide 30mg and semaglutide 1.0mg significantly differed from placebo in Adverse Event (AE) withdrawal. Finally, the sensitivity analysis and publication bias analysis results indicate that the study results are reliable. This study's results showed that GLP-1RAs were effective in lowering HbA1c and reducing body weight without increased incidence of hypoglycemic reactions. In addition, this study may provide reference and evidence-based medical evidence for clinicians to select GLP-1RAs in patients with T2D and high body mass index (BMI). Based on the NMA results, tirzepatide 15mg and semaglutide 1.0mg may be preferred.",
+    "authors": "Xie Zeyu, Hu Jia, Gu Hangye, Li Mengting, Chen Jisheng",
+    "publication_date": "2023",
+    "similarity_score": 0.9322575330734253,
+    "passages": [
+      {
+        "context": "comparison of the efficacy and safety of 10 glucagon-like peptide-1 receptor agonists as add-on to metformin in patients with type 2 diabetes: a systematic review.. this study aimed to perform a network meta-analysis to object",
+        "keyword": "efficacy",
+        "position": 18
+      },
+      {
+        "context": "lucagon-like peptide-1 receptor agonists as add-on to metformin in patients with type 2 diabetes: a systematic review.. this study aimed to perform a network meta-analysis to objectively evaluate the efficacy and safety of 10 glucagon-like peptide-1 receptor agonists (glp-1ras) in combination with metformin that is approved for use worldwide in patients with type 2 diabetes and to provide evidence-based s",
+        "keyword": "efficacy",
+        "position": 245
+      },
+      {
+        "context": "n of clinical treatment. three databases (pubmed, embase, and cochrane library) were searched from their respective inception until september 30, 2022. only randomized controlled trials comparing the efficacy and safety of glp-1ras for treating type 2 diabetes (t2d) were included. the 10 glp-1ras are exenatide (including exenatide twice daily and once weekly), liraglutide, lixisenatide, dulaglutide, pex16",
+        "keyword": "efficacy",
+        "position": 690
+      },
+      {
+        "context": "ases (pubmed, embase, and cochrane library) were searched from their respective inception until september 30, 2022. only randomized controlled trials comparing the efficacy and safety of glp-1ras for treating type 2 diabetes (t2d) were included. the 10 glp-1ras are exenatide (including exenatide twice daily and once weekly), liraglutide, lixisenatide, dulaglutide, pex168, semaglutide (subcutaneous and ora",
+        "keyword": "treating",
+        "position": 726
+      },
+      {
+        "context": "comparison of the efficacy and safety of 10 glucagon-like peptide-1 receptor agonists as add-on to metformin in patients with type 2 diabetes: a systematic review.. this study aimed to perform a network meta-analysis to objectively evaluate the efficacy and safety of 10 glucagon-like peptide-1 receptor agonists (glp-1ras) in com",
+        "keyword": "type",
+        "position": 126
+      },
+      {
+        "context": "a-analysis to objectively evaluate the efficacy and safety of 10 glucagon-like peptide-1 receptor agonists (glp-1ras) in combination with metformin that is approved for use worldwide in patients with type 2 diabetes and to provide evidence-based support and reference for the selection of clinical treatment. three databases (pubmed, embase, and cochrane library) were searched from their respective ince",
+        "keyword": "type",
+        "position": 406
+      },
+      {
+        "context": "med, embase, and cochrane library) were searched from their respective inception until september 30, 2022. only randomized controlled trials comparing the efficacy and safety of glp-1ras for treating type 2 diabetes (t2d) were included. the 10 glp-1ras are exenatide (including exenatide twice daily and once weekly), liraglutide, lixisenatide, dulaglutide, pex168, semaglutide (subcutaneous and oral sem",
+        "keyword": "type",
+        "position": 735
+      }
+    ]
+  },
+  {
+    "pmid": "37881952",
+    "title": "Canagliflozin + metformin ER for the treatment of type 2 diabetes: the evidence to date.",
+    "abstract": "Patients with type 2 diabetes (T2D) usually show progressive deterioration in glycemic control and sequential additions of therapy are generally needed. Many new options for glucose lowering therapy have been introduced recently and it is becoming common practice to use fixed-dose combinations (FDCs) of glucose lowering agents from different classes. This article reviews the FDC of canagliflozin with metformin extended release. A literature search was performed to identify publications describing the efficacy and safety of canagliflozin and metformin when used separately and in combinations. Canagliflozin is a sodium-glucose cotransporter-2 (SGLT2) inhibitor which has shown benefits in reducing progression of renal disease and heart failure in patients with T2D. There was an increased incidence of amputation with canagliflozin in one study, but canagliflozin results in weight loss and reduction of blood pressure which contribute to the overall benefit. Metformin has been the first line oral hypoglycemic agent for many years and is thought to have many advantages, but it should be avoided in patients with severely decreased renal function because of the risk of lactic acidosis. The combination in a single tablet given once daily should help to simplify therapy and improve medication adherence in T2D.",
+    "authors": "Tomlinson Brian, Li Yan-Hong",
+    "publication_date": "2023",
+    "similarity_score": 0.9315767884254456,
+    "passages": [
+      {
+        "context": "lucose lowering agents from different classes. this article reviews the fdc of canagliflozin with metformin extended release. a literature search was performed to identify publications describing the efficacy and safety of canagliflozin and metformin when used separately and in combinations. canagliflozin is a sodium-glucose cotransporter-2 (sglt2) inhibitor which has shown benefits in reducing progressio",
+        "keyword": "efficacy",
+        "position": 596
+      },
+      {
+        "context": "canagliflozin + metformin er for the treatment of type 2 diabetes: the evidence to date.. patients with type 2 diabetes (t2d) usually show progressive deterioration in glycemic control and sequential additions of therapy are generally needed. many new op",
+        "keyword": "type",
+        "position": 50
+      },
+      {
+        "context": "canagliflozin + metformin er for the treatment of type 2 diabetes: the evidence to date.. patients with type 2 diabetes (t2d) usually show progressive deterioration in glycemic control and sequential additions of therapy are generally needed. many new options for glucose lowering therapy have been introduce",
+        "keyword": "type",
+        "position": 104
+      }
+    ]
+  },
+  {
+    "pmid": "37957465",
+    "title": "A Randomized, Double-Blind, Parallel-Group Phase\u00a0III Trial Investigating the Glycemic Efficacy and Safety Profile of Fixed-Dose Combination Dapagliflozin and Linagliptin Over Linagliptin Monotherapy in Patients with Inadequately Controlled Type\u00a02 Diabetes with Metformin.",
+    "abstract": "The aim of the study was to evaluate the efficacy and safety of fixed-dose combination (FDC) of dapagliflozin (10\u00a0mg) and linagliptin (5\u00a0mg) in comparison to linagliptin 5\u00a0mg (Trajenta) in patients with insufficiently controlled type\u00a02 diabetes mellitus (T2DM) on metformin monotherapy. The double-blind, randomized, multicentric, parallel-group phase\u00a0III trial screened 287 adult patients with T2DM (age 18-65\u00a0years) from 16 sites across India. The recruited subjects were undergoing metformin monotherapy\u2009\u2265\u20091000\u00a0mg/day for at least 28\u00a0days. Patients with HbA1c of 7.5-10.5% (58-91\u00a0mmol/l) (n\u2009=\u2009232) after 2\u00a0weeks of run-in period with linagliptin monotherapy and placebo dapagliflozin/linagliptin on metformin monotherapy were randomized (1:1) in parallel to once daily dapagliflozin/linagliptin 10/5\u00a0mg or linagliptin 5\u00a0mg for 16\u00a0weeks. Patients were stratified on the basis of HbA1c (\u2264\u20099.0% and >\u20099.0%; \u2264\u200975\u00a0mmol/l and\u2009>\u200975\u00a0mmol/l)). A total of 225 subjects completed 16\u00a0weeks of treatment, 115 patients in the test group and 110 patients in the reference group. Dapagliflozin/linagliptin (p\u2009=\u20090.0003) exhibited a greater change in HbA1c from baseline than linagliptin (p\u2009<\u20090.0001) in 16\u00a0weeks (mean reduction, - 1.28% vs - 0.83%). Test group showed a significant decrease in fasting plasma glucose (FPG), postprandial plasma glucose (PPG) and body weight compared to the reference group. The FDC was well tolerated with adverse events being more frequent in the reference group. No serious adverse events (SAEs) were reported in the study. Dapagliflozin/linagliptin combination is a novel dipeptidyl peptidase\u00a04 (DPP4)/sodium-glucose co-transporter\u00a02 (SGLT2) inhibitor FDC approved in India for patients with T2DM. Potential limitations of this study are a small dose of dapagliflozin (10\u00a0mg) in the FDC, a short study duration (30\u00a0weeks) and a high minimum threshold for HbA1c (\u2264\u20097.5%; \u2264\u200953\u00a0mmol/l). Results indicate the FDC to be a superior therapeutic option over linagliptin for patients with T2DM on metformin monotherapy. CTRI/2022/08/044563; 01/08/2022.",
+    "authors": "Jain Aditi, Vispute Abhay, Dange Amol, Naskar Arindam, Mondal Asish, Vivekanand B, Sharma Balram, Varade Deepak, Shukla Dhaiwat, Bhatia Girish, Chaudhari Harshal, Ram Babu K, Gavali Onkar, Sorate Sanket, Bhanushali Shaishav, Kothari Vaibhav, Khandelwal Vipul, Sharma Akhilesh, Pawar Roshan, Mayabhate Mayur, Shahavi Vinayaka, Rajput Aashishsingh, Jaiswal Mukesh",
+    "publication_date": "2024",
+    "similarity_score": 0.9314941167831421,
+    "passages": [
+      {
+        "context": "a randomized, double-blind, parallel-group phase\u00a0iii trial investigating the glycemic efficacy and safety profile of fixed-dose combination dapagliflozin and linagliptin over linagliptin monotherapy in patients with inadequately controlled type\u00a02 diabetes with metformin.. the aim of the study",
+        "keyword": "efficacy",
+        "position": 86
+      },
+      {
+        "context": "of fixed-dose combination dapagliflozin and linagliptin over linagliptin monotherapy in patients with inadequately controlled type\u00a02 diabetes with metformin.. the aim of the study was to evaluate the efficacy and safety of fixed-dose combination (fdc) of dapagliflozin (10\u00a0mg) and linagliptin (5\u00a0mg) in comparison to linagliptin 5\u00a0mg (trajenta) in patients with insufficiently controlled type\u00a02 diabetes mell",
+        "keyword": "efficacy",
+        "position": 314
+      },
+      {
+        "context": "5\u00a0mmol/l)). a total of 225 subjects completed 16\u00a0weeks of treatment, 115 patients in the test group and 110 patients in the reference group. dapagliflozin/linagliptin (p\u2009=\u20090.0003) exhibited a greater change in hba1c from baseline than linagliptin (p\u2009<\u20090.0001) in 16\u00a0weeks (mean reduction, - 1.28% vs - 0.83%). test group showed a significant decrease in fasting plasma glucose (fpg), postprandial plasma gl",
+        "keyword": "change",
+        "position": 1399
+      },
+      {
+        "context": "up phase\u00a0iii trial investigating the glycemic efficacy and safety profile of fixed-dose combination dapagliflozin and linagliptin over linagliptin monotherapy in patients with inadequately controlled type\u00a02 diabetes with metformin.. the aim of the study was to evaluate the efficacy and safety of fixed-dose combination (fdc) of dapagliflozin (10\u00a0mg) and linagliptin (5\u00a0mg) in comparison to linagliptin 5",
+        "keyword": "type",
+        "position": 240
+      },
+      {
+        "context": "valuate the efficacy and safety of fixed-dose combination (fdc) of dapagliflozin (10\u00a0mg) and linagliptin (5\u00a0mg) in comparison to linagliptin 5\u00a0mg (trajenta) in patients with insufficiently controlled type\u00a02 diabetes mellitus (t2dm) on metformin monotherapy. the double-blind, randomized, multicentric, parallel-group phase\u00a0iii trial screened 287 adult patients with t2dm (age 18-65\u00a0years) from 16 sites a",
+        "keyword": "type",
+        "position": 502
+      }
+    ]
+  }
+]

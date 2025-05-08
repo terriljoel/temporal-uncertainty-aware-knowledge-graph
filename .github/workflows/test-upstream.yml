@@ -1,0 +1,14 @@
+name: Test Upstream Access
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-upstream-access:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone upstream repo with PAT
+        env:
+          PAT: ${{ secrets.UPSTREAM_PUSH_TOKEN }}
+        run: |
+          git clone https://x-access-token:${PAT}@github.com/baksho/temporal-uncertainty-aware-knowledge-graph.git
